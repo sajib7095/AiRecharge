@@ -1,9 +1,10 @@
 {
   "name": "AiRecharge",
   "version": "1.0.0",
-  "main": "server.js",
+  "description": "",
+  "main": "api/index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node api/index.js"
   },
   "dependencies": {
     "express": "^4.18.2",
